@@ -7,7 +7,7 @@
 
 # 교재
 * 파트 1 (종료)
-  * Python for Experimental Psychologists - https://www.amazon.com/Python-Experimental-Psychologists-Edwin-Dalmaijer/dp/1138671576
+  * Python for Experimental Psychologists - https://www.amazon.com/Python-Experimental-Psychologists-Edwin-Dalmaijer/dp/1138671576
   * (블로그) 책 정보 & 코드 - http://www.pygaze.org/pep/
   *  코드 한번에 받기 - http://www.pygaze.org/resources/downloads/PEP/all-in-one.zip
 * 파트 2 (진행 중)
