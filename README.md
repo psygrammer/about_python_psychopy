@@ -11,7 +11,7 @@
   * (블로그) 책 정보 & 코드 - http://www.pygaze.org/pep/
   *  코드 한번에 받기 - http://www.pygaze.org/resources/downloads/PEP/all-in-one.zip
 * 파트 2 (진행 중)
-  * (영어버전) Cognitive Psychology Experiments Demonstrations - http://www.tankonyvtar.hu/hu/tartalom/tamop412A/2011-0018_08_kiserletek/adatok.html
+  * (영어버전) Cognitive Psychology Experiments Demonstrations - http://www.tankonyvtar.hu/hu/tartalom/tamop412A/2011-0018_08_kiserletek/adatok.html
   * (원래 사이트, 소스코드 있음) Kognitív gyakorlatok - https://sites.google.com/site/kognitivgyakorlatok/
 
   
