@@ -23,7 +23,7 @@
 |-----|:----:| :------------------------------------|:----:|:---------------------------------------- |
 |  1  | 1/13 | (Perception) Attentional Blink Paradigm 							            | 김무성    | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part2/Perception/Attentional_Blink_Paradigm/Attentional_Blink_Paradigm.ipynb)  |
 |  2  | 1/27 | (Executive functions ) Go/no go paradigm 							         | 김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part2/ExecutiveFunctions/Go_NoGo_Paradigm/Go_NoGo_Paradigm.ipynb) |
-|  3  | 2/10  | (Perception) Eriksen flanker test     | | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part2/Perception/Erikson_Flanker_Test/Erikson_Flanker_Test.ipynb) |
+|  3  | 2/10  | (Perception) Eriksen flanker test     |Y.Lee | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part2/Perception/Erikson_Flanker_Test/Erikson_Flanker_Test.ipynb) |
 
 <b>파트 1 </b>
 * 2017년 8월 ~ 11월    
