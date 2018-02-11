@@ -17,16 +17,16 @@
   
 # 커리큘럼
 <b>파트 1 </b>
-* 2017년 1월 ~ 2월    
+* 2017년 8월 ~ 11월    
 
 | 회차 |  일시 | 내용                                  | 발표자 |              발표자료                    |
 |-----|:----:| :------------------------------------|:----:|:---------------------------------------- |
-|  0  |      | 실습 환경 설정 							            | 김무성    | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/setup.ipynb)  |
+|  0  | 8/5  | 실습 환경 설정 							            | 김무성    | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/setup.ipynb)  |
 |  0  |      | Hello, PsychoPy 							         | 김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/hello_psychopy.ipynb) |
-|  1  | 1/6  | 3 Creating and presenting stimuli     |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch03/03_Creating_and_presenting_stimuli.ipynb) |
-|  2  | 1/13 | 4 Processing responses 	             |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch04/04_Processing_responses.ipynb) |
-|  3  | 1/20 | 5 Scripting an experiment  					 |김무성 | [발표자료1](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch05/05_SCRIPTING_AN_EXPERIMENT.ipynb) |
-|  4  | 1/27 | 6 Analysing behavioural data          | 김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch06/06_ANALYSING_BEHAVIOURAL_DATA.ipynb) |
-|  5  | 2/3  | 7 Analysing traces			               |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch07/07_ANALYSING_TRACES.ipynb) |
+|  1  | 8/19  | 3 Creating and presenting stimuli     |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch03/03_Creating_and_presenting_stimuli.ipynb) |
+|  2  | 8/26 | 4 Processing responses 	             |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch04/04_Processing_responses.ipynb) |
+|  3  | 9/23 | 5 Scripting an experiment  					 |김무성 | [발표자료1](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch05/05_SCRIPTING_AN_EXPERIMENT.ipynb) |
+|  4  | 10/21 | 6 Analysing behavioural data          | 김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch06/06_ANALYSING_BEHAVIOURAL_DATA.ipynb) |
+|  5  | 11/11  | 7 Analysing traces			               |김무성 | [발표자료](https://github.com/psygrammer/about_python_psychopy/blob/master/part1/ch07/07_ANALYSING_TRACES.ipynb) |
 
 
