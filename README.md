@@ -1,5 +1,10 @@
 # 어바웃 파이썬 : PsychoPy
 
+# 실습을 위한 환경구성
+* 아나콘다 + Jupyter notebook 설치 일반 - https://github.com/sungyongkim/psygrammar_aboutpython_s02
+* Psychopy 연동 (일본어로 되어 있지만 구글 번역기 돌리면 됩니다) - https://qiita.com/mytk0u0/items/8bf1b2c061d454b2ffdc 
+
+
 # 스터디 정보 
 * 모임시간 : 매주 토요일, 오후 3~6시
 * 파이썬 패키지 Psychopy를 이용한 심리학 실험 구현 기초
