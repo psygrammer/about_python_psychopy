@@ -23,7 +23,7 @@
 # 커리큘럼
 
 <b>파트 3 </b>
-파트 3부터는 다음 링크에서 자료가 관리됩니다 - https://github.com/psygrammer/about_python_hello_world/tree/master/psychopy
+* 파트 3부터는 다음 링크에서 자료가 관리됩니다 - https://github.com/psygrammer/about_python_hello_world/tree/master/psychopy
 
 <b>파트 2 </b>
 * 2018년 1월 ~     
